@@ -1,0 +1,1 @@
+Quand un code avec node, on a des fichiers temporaires qu'on ne veut pas push parce qu'ils se reinstallent tout le temps
